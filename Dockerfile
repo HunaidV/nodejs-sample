@@ -21,3 +21,4 @@ ENV NODE_ENV production
 ENV PORT 3001
 
 CMD ["npm", "start"]
+EXPOSE 3001
